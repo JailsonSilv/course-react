@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+div.main{
+  background: #000;
+  color: #fff;
+
+  padding: 15px;
+  line-height: 30px;
+}
+
+div h1.challenge {
+  font-weight: bolder;
+  font-size: 48px;
+}
+
+div .imprima p {
+  color: darkorange;
+}
+
+div .soma button {
+  height: 3rem;
+  width: 10rem;
+
+  font-size: 17px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+  cursor: pointer;
+}
