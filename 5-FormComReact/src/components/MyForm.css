@@ -1,0 +1,71 @@
+body {
+    background-color: darkseagreen ;
+}
+
+
+form,
+form div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: Georgia;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+label {
+    font-size: 22px;
+    font-weight: 500;
+    margin-right: 10px;
+    letter-spacing: 2px;
+}
+
+input {
+    margin-bottom: 1.7rem;
+}
+
+input.tx1 {
+    font-family: 'Times New Roman';
+    font-size: 17px;
+    padding: 10px;
+    height: 15px;
+    width: 250px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+}
+
+input.btnSub {
+    width: 100px;
+    height: 40px;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding: 3px;
+    border-radius: 5px;
+    border: 2px solid rgb(103, 117, 117);
+    cursor: pointer;
+    background: rgb(79, 139, 95);
+    text-transform: uppercase;
+    transition: 0.6s all;
+}
+
+input.btnSub:hover {
+    background: rgb(104, 203, 5);
+    color: white;
+    border: none;
+    transition: 0.6s all;
+}
+
+input,
+textarea, 
+select {
+    display: block;
+    margin-top: 10px;
+}
+
