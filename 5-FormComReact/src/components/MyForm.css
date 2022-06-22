@@ -28,12 +28,12 @@ input {
     margin-bottom: 1.7rem;
 }
 
-input.tx1 {
+input {
     font-family: 'Times New Roman';
     font-size: 17px;
     padding: 10px;
     height: 15px;
-    width: 250px;
+    width: 200px;
     border-radius: 6px;
     border: none;
     outline: none;
@@ -66,6 +66,5 @@ input,
 textarea, 
 select {
     display: block;
-    margin-top: 10px;
+    margin:20px 10px;
 }
-

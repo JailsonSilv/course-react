@@ -8,7 +8,11 @@ function App() {
       
 
       {/* Importção */}
-      <MyForm />
+      <MyForm  user={
+        {name: "Jailson silva", 
+        email: "jailsonsilva@gmail.com", 
+        bio: "sou um Advogado", 
+        role: "admi"}}/>
     </div>
   );
 }
