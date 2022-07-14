@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Camisa de time",
+      "price": "169.99",
+      "id": 16
+    },
+    {
+      "name": "Bermuda",
+      "price": "69",
+      "id": 17
+    },
+    {
+      "name": "Capinha de celular",
+      "price": "25",
+      "id": 34
+    },
+    {
+      "name": "Fone de ouvido",
+      "price": "200",
+      "id": 35
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 36
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 37
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 38
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 39
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 40
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 41
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 42
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 43
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 44
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 45
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 46
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 47
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 48
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 49
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 50
+    },
+    {
+      "name": "Suporte de notebook",
+      "price": "75",
+      "id": 51
+    }
+  ]
+}
