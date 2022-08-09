@@ -1,0 +1,52 @@
+body {
+    background-color: darkgray;
+}
+
+.h1-style {
+    color: azure;
+    background-color: black;
+    padding: 20px;
+    font-size: 2.2rem;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.products {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.products li {
+    border: 1px solid  #fff;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    list-style-type: none;
+    margin: 10px 10px;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1300px) {
+    .products {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .products li {
+        margin-bottom: 25px;
+        width: 75%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

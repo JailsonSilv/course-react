@@ -1,0 +1,22 @@
+form {
+    margin-top: 30px;
+}
+
+form input {
+    height: 27px;
+    border-radius: 7px;
+    border: none;
+}
+
+
+form .btn {
+    height: 30px;
+    margin-left: 7px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+form .btn:hover {
+    background-color: gray;
+}
