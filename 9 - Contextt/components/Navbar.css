@@ -1,0 +1,20 @@
+nav {
+    display: flex;
+    justify-content: center;
+}
+nav a {
+    margin: 10px 15px;
+    padding: 5px;
+    text-decoration: none;
+    color: rgb(0, 0, 71);
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: blue;
+}
+
+.active {
+    background-color: black;
+    color: white;
+}
